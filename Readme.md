@@ -51,7 +51,7 @@ Il réduit également la tension d'un signal. Il s'agit de la méthode recommand
 https://www.gotronic.fr/art-convertisseur-de-4-niveaux-logiques-2595-22272.htm
 
 <p >
-    <img src="./assets/voltage_llc.jpg"  width="50%" alt="Logic Level Converter">
+    <img src="./assets/voltage_LLC.jpg"  width="50%" alt="Logic Level Converter">
 </p>
 
 ## Solution mise en Oeuvre
